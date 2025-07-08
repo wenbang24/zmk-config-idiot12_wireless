@@ -19,5 +19,5 @@
 #
 ---
 include:
-    - board: nrfmicro13
+    - board: nrfmicro_13
       shield: idiot12_wireless
