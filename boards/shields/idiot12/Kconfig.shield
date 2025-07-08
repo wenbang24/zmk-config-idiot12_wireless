@@ -1,7 +1,7 @@
 # No whitespace after the comma or in your part name!
 config SHIELD_MY_KEYBOARD_LEFT
-    def_bool $(shields_list_contains,idiot12_wireless_left)
+    def_bool $(shields_list_contains,idiot12_left)
 
 # No whitespace after the comma or in your part name!
 config SHIELD_MY_KEYBOARD_RIGHT
-    def_bool $(shields_list_contains,idiot12_wireless_right)
+    def_bool $(shields_list_contains,idiot12_right)

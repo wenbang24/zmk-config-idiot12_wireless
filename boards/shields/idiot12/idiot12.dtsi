@@ -1,5 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include "idiot12_wireless-layouts.dtsi"
+#include "idiot12-layouts.dtsi"
 
 / {
     kscan0: kscan0 {

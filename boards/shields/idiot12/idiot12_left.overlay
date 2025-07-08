@@ -1,4 +1,4 @@
-#include "idiot12_wireless.dtsi"
+#include "idiot12.dtsi"
 
 &kscan0 {
     input-gpios

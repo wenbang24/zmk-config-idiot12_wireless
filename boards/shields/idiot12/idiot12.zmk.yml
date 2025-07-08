@@ -1,5 +1,5 @@
 file_format: "1"
-id: idiot12_wireless
+id: idiot12
 name: Idiot12 Wireless
 type: shield
 url: https://github.com/wenbang24/idiot12_wireless
@@ -7,5 +7,5 @@ requires: [nrf52840]
 features:
     - keys
 siblings:
-    - idiot12_wireless_left
-    - idiot12_wireless_right
+    - idiot12_left
+    - idiot12_right
