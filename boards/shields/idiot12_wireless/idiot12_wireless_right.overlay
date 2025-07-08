@@ -1,0 +1,12 @@
+#include "idiot12_wireless.dtsi"
+
+&kscan0 {
+    input-gpios
+        = <&gpio0 30 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+        , <&gpio0 29 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+        , <&gpio0 28 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+        , <&gpio1 15 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+        , <&gpio0 3 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+        , <&gpio0 2 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+        ;
+};
