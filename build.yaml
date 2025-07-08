@@ -20,6 +20,6 @@
 ---
 include:
     - board: nrfmicro_13
-      shield: idiot12_wireless_left
+      shield: idiot12_left
     - board: nrfmicro_13
-      shield: idiot12_wireless_right
+      shield: idiot12_right
