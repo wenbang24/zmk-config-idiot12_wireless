@@ -232,13 +232,13 @@
                 &mt LCTL Q  &mt LALT E  &mt LSFT Q    &mt RSFT Y  &mt RALT I     &mt RCTL P
                 &mt LGUI Z  &kp C       &kp B         &kp N       &kp COMMA      &mt RGUI SLASH
             >;
-        }
+        };
         num {
             display-name = "Numbers";
             bindings = <
                 &mt LCTL N1    &mt LALT N3 &mt LSFT N5    &mt RSFT N6 &mt RALT N8      &mt RCTL N0
                 &mt LGUI MINUS &kp EQUAL   &kp LBKT       &kp RBKT    &kp SINGLE_QUOTE &mt RGUI BSLH
             >;
-        }
+        };
     };
 };
